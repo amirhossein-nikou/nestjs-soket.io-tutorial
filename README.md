@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This project is sample live chat using socket.io in nestjs
 
 ## Installation
 
@@ -44,6 +44,3 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-## description
-
-this project is sample live chat using socket.io in nestjs
